@@ -1,6 +1,6 @@
 @keyframes starwar {
-	100% {
-		transform: scale(-1, -1);
+	50% {
+		transform: scale(0, 0);
 	}
 }
 
